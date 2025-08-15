@@ -36,7 +36,7 @@
       <h3>Projeto 1: KenzielFlix</h3>
       <p>Projeto Kenzie Academy de criação de clone da tela de perfil da netflix.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://github.com/REN4TONASCIMENTO/Kenzieflix">🔗 Repositório</a> | 
+      <a href="https://github.com/REN4TONASCIMENTO/Kenzieflix">🔗 Repositório</a>
       <a href="https://kenzieflix-six.vercel.app/">🔗 Demonstração</a>
     </td>
     
