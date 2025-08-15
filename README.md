@@ -40,6 +40,7 @@
       <a href="https://kenzieflix-six.vercel.app/">🔗 Demonstração</a>
     </td>
   </tr>
+</table>
     
 ## 📊 Minhas Estatísticas no GitHub
 
