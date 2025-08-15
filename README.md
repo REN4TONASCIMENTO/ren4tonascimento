@@ -39,6 +39,7 @@
       <a href="https://github.com/REN4TONASCIMENTO/Kenzieflix">🔗 Repositório</a>
       <a href="https://kenzieflix-six.vercel.app/">🔗 Demonstração</a>
     </td>
+  </tr>
     
 ## 📊 Minhas Estatísticas no GitHub
 
