@@ -32,24 +32,14 @@
 
 <table border="1">
   <tr>
-    <td width="50%">
+    <td width="10%">
       <h3>Projeto 1: KenzielFlix</h3>
       <p>Projeto Kenzie Academy de criação de clone da tela de perfil da netflix.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
       <a href="https://github.com/REN4TONASCIMENTO/Kenzieflix">🔗 Repositório</a> | 
       <a href="https://kenzieflix-six.vercel.app/">🔗 Demonstração</a>
     </td>
-    <td width="50%">
-      <h3>Projeto 2: Site Doob</h3>
-      <p>Projeto Fleaxpeak de criação de página web.</p>
-      <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://github.com/REN4TONASCIMENTO/sitedoob">🔗 Repositório</a> | 
-      <a href="[LINK_PARA_O_DEPLOY]">🔗 Demonstração</a>
-    </td>
-  </tr>
-</table>
-<hr>
-
+    
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
