@@ -32,7 +32,7 @@
 
 <table border="1">
   <tr>
-    <td width="10%">
+    <td width="50%">
       <h3>Projeto 1: KenzielFlix</h3>
       <p>Projeto Kenzie Academy de criação de clone da tela de perfil da netflix.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
@@ -44,7 +44,7 @@
 
 <table border="1">
   <tr>
-    <td width="10%">
+    <td width="50%">
       <h3>Projeto 2: API de Produtos</h3>
       <p>API para cadastrar produtos de um estoque.</p>
       <p><strong>Tecnologias:</strong>JavaScript</p>
@@ -53,9 +53,9 @@
   </tr>
 </table>
 
-<table border="2">
+<table border="1">
   <tr>
-    <td width="10%">
+    <td width="50%">
       <h3>Projeto 3: Podcast com IA</h3>
       <p>Podcast gerado por IA com narração criada pelo ElevenLabs.</p>
       <p><strong>Tecnologias:</strong>JavaScript</p>
