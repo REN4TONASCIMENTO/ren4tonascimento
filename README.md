@@ -56,6 +56,7 @@
     </td>
   </tr>
 </table>
+<hr>
     
 ## 📊 Minhas Estatísticas no GitHub
 
