@@ -32,30 +32,23 @@
 
 <table border="1">
   <tr>
-    <td width="50%">
+    <td>
       <h3>Projeto 1: KenzielFlix</h3>
       <p>Projeto Kenzie Academy de criação de clone da tela de perfil da netflix.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
       <a href="https://github.com/REN4TONASCIMENTO/Kenzieflix">🔗 Repositório</a>
       <a href="https://kenzieflix-six.vercel.app/">🔗 Demonstração</a>
     </td>
-  </tr>
-</table>
-
-<table border="1">
-  <tr>
-    <td width="50%">
+    <td> 
       <h3>Projeto 2: API de Produtos</h3>
       <p>API para cadastrar produtos de um estoque.</p>
       <p><strong>Tecnologias:</strong>JavaScript</p>
       <a href="https://github.com/REN4TONASCIMENTO/APIprodutos.git">🔗 Repositório</a>
     </td>
   </tr>
-</table>
-
-<table border="1">
+  
   <tr>
-    <td width="50%">
+    <td>
       <h3>Projeto 3: Podcast com IA</h3>
       <p>Podcast gerado por IA com narração criada pelo ElevenLabs.</p>
       <p><strong>Tecnologias:</strong>JavaScript</p>
