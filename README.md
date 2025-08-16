@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-<table border="1">
+<table border="2">
   <tr>
     <td width="10%">
       <h3>Projeto 3: Podcast com IA</h3>
