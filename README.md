@@ -54,6 +54,12 @@
       <p><strong>Tecnologias:</strong>JavaScript</p>
       <a href="https://github.com/REN4TONASCIMENTO/podcast-com-ia-generativa.git">🔗 Repositório</a>
     </td>
+    <td> 
+      <h3>Projeto 2: Plataforma Dog Walker</h3>
+      <p>Plataforma para cliente contrar serviço de dog walker.</p>
+      <p><strong>Tecnologias:</strong>JavaScript, React, MongoDB</p>
+      <a href="https://github.com/REN4TONASCIMENTO/app-dog-walker-mosaico>🔗 Repositório</a>
+    </td>
   </tr>
 </table>
     
