@@ -52,13 +52,13 @@
     <td>
       <h3>Projeto 3: Podcast com IA</h3>
       <p>Podcast gerado por IA com narração criada pelo ElevenLabs.</p>
-      <p><strong>Tecnologias:</strong>JavaScript</p>
+      <p><strong>Tecnologias:</strong> JavaScript</p>
       <a href="https://github.com/REN4TONASCIMENTO/podcast-com-ia-generativa.git">🔗 Repositório</a>
     </td>
     <td> 
       <h3>Projeto 4: Plataforma Dog Walker</h3>
       <p>Plataforma para cliente contrar serviço de dog walker.</p>
-      <p><strong>Tecnologias:</strong>JavaScript, React, MongoDB</p>
+      <p><strong>Tecnologias:</strong> JavaScript, React, MongoDB</p>
       <a href="https://github.com/REN4TONASCIMENTO/app-dog-walker-mosaico">🔗 Repositório</a>
     </td>
   </tr>
