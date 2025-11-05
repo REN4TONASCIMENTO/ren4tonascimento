@@ -1,7 +1,7 @@
 **`Desenvolvedor FullStack`**
 
 <p align="left">
-  Me chamo Renato Xavier do Nascimento, tenho 24 anos e sou natural de Manaus-AM. Atualmente, estou cursando Análise. Sou apaixonado por tecnologia e compartilho meu conhecimento e conquistas, através de comunidades de estudantes e redes sociais. Hoje, estou focado em tecnologias de desenvolvimento web FullStack: HTML, CSS, JavaScript, React, Node.js e Python.
+  Me chamo Renato Xavier do Nascimento, tenho 24 anos e sou natural de Manaus-AM. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento e conquistas, através de comunidades de estudantes e redes sociais. Hoje, estou focado em tecnologias de desenvolvimento web FullStack: HTML, CSS, JavaScript, React, Node.js e Python.
   <br><br>
   🔭 No momento estou trabalhando em um projeto de de cunho educional, como voluntário na comunidade Desenvolveremos, na função de Líder de Estudos.<br>
   🌱 Estou colocando em prática o uso de tecnologias web front-end, back-end e habilidades comportamentais na liderança de uma equipe de estudos.<br>
