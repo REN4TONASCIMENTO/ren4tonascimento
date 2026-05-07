@@ -1,4 +1,4 @@
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 <p align="left">
   Cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento e conquistas, através de comunidades de estudantes e redes sociais. Hoje, estou focado em tecnologias de desenvolvimento web FullStack: HTML, CSS, JavaScript, React, Node.js e Python.
